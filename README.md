@@ -7,7 +7,8 @@ The challenges:
 ## Table of Contents
 1. How to run
 2. Overall Progress
-3. Challenge 00
+3. Challenge XX
+4. Challenge 00 - Name Generator
 
 ## How to Run
 
@@ -17,6 +18,9 @@ The challenges:
 0/100
 ■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-## Challenege 00 
+## Challenge XX 
+Date Completed: (` `), Language (`python`)
+
+## Challenge 00 - Name Generator 
 Date Completed: (` `), Language (`python`)
 
