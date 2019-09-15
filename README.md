@@ -6,7 +6,13 @@ The challenges:
 
 ## Table of Contents
 1. How to run
-2. Challenge 00
+2. Overall Progress
+3. Challenge 00
+
+
+## Overall Progress
+0/100
+■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 
 ## Challenege 00 
