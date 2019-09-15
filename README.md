@@ -9,10 +9,14 @@ The challenges:
 2. Overall Progress
 3. Challenge 00
 
+## How to Run
+
+* <b>Python</b> - Simply open your CMD prompt and type `python script.py`, using Python 3. 
 
 ## Overall Progress
 0/100
 ■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-
 ## Challenege 00 
+Date Completed: (` `), Language (`python`)
+
