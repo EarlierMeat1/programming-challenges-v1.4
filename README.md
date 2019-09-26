@@ -10,14 +10,15 @@ The challenges:
 3. Challenge XX
 4. Challenge 02 - Temperature Converter
 5. Challenge 14 - Magic Eight Ball
+6. Challenge 22 - BMI Calculator
 
 ## How to Run
 
 * <b>Python</b> - Simply open your CMD prompt and type `python script.py`, using Python 3. 
 
 ## Overall Progress
-2/100
-■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+3/100
+■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 ## Challenge XX 
 Date Completed: (` `), Language (`python`)
@@ -31,3 +32,8 @@ Date Completed: (`22-09-2019 `), Language (`python`)
 Date Completed: (`24-09-2019 `), Language (`python`)
 ![Magic Eight Ball](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/14%20Magic%20Eight%20Ball.png)  
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/14%20Magic%20Eight%20Ball)
+
+## Challenge 22 - BMI Calculator
+Date Completed: (`26-09-2019 `), Language (`python`)
+![BMI Calculator](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/22%20BMI%20Calculator.png)  
+[View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/22%20BMI%20Calculator)
