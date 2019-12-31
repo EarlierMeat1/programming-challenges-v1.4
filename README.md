@@ -47,6 +47,8 @@ Date Completed: (`26-09-2019 `), Language (`python`)
 
 ## Challenge 28 - Fibonacci Sequence 
 Date Completed: ('31-12-2019 '), Language ('Python')
+--
 ![Fibonacci Sequence](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/28%20Fibonacci%20Sequence.png)
+--
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/challenges/28%20Fibonacci%20Sequence)
 
