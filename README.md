@@ -12,14 +12,15 @@ The challenges:
 5. Challenge 02 - Temperature Converter
 6. Challenge 14 - Magic Eight Ball
 7. Challenge 22 - BMI Calculator
+8. Challenge 28 - Fibonacci Sequence
 
 ## How to Run
 
 * <b>Python</b> - Simply open your CMD prompt and type `python script.py`, using Python 3. 
 
 ## Overall Progress
-4/100
-■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+5/100
+■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 ## Challenge XX 
 Date Completed: (` `), Language (`python`)
@@ -43,3 +44,9 @@ Date Completed: (`24-09-2019 `), Language (`python`)
 Date Completed: (`26-09-2019 `), Language (`python`)
 ![BMI Calculator](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/22%20BMI%20Calculator.png)  
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/22%20BMI%20Calculator)
+
+## Challenge 28 - Fibonacci Sequence 
+Date Completed: ('31-12-2019 '), Language ('Python')
+![Fibonacci Sequence](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/28%20Fibonacci%20Sequence.png)
+[View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/challenges/28%20Fibonacci%20Sequence)
+
