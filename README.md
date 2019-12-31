@@ -45,10 +45,10 @@ Date Completed: (`26-09-2019 `), Language (`python`)
 ![BMI Calculator](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/22%20BMI%20Calculator.png)  
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/22%20BMI%20Calculator)
 
-## Challenge 28 - Fibonacci Sequence 
-Date Completed: ('31-12-2019 '), Language('Python')
---
+## Challenge 28 - Fibonacci Sequence
+Date Completed: (`26-09-2019 `), Language (`python`)
+  
 ![Fibonacci Sequence](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/28%20Fibonacci%20Sequence.png)
---
+  
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/challenges/28%20Fibonacci%20Sequence)
 
