@@ -13,14 +13,15 @@ The challenges:
 6. Challenge 14 - Magic Eight Ball
 7. Challenge 22 - BMI Calculator
 8. Challenge 28 - Fibonacci Sequence
+9. Challenge 42 - ASCII Digital Clock
 
 ## How to Run
 
 * <b>Python</b> - Simply open your CMD prompt and type `python script.py`, using Python 3. 
 
 ## Overall Progress
-5/100
-■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+6/100
+■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 ## Challenge XX 
 Date Completed: (` `), Language (`python`)
@@ -51,4 +52,10 @@ Date Completed: (`31-12-2019 `), Language (`python`)
 ![Fibonacci Sequence](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/28%20Fibonacci%20Sequence.png)
   
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/challenges/28%20Fibonacci%20Sequence)
+
+## Challenge 42 - ASCII Digital Clock
+Date Completed: (`24-09-2019 `), Language (`python`)
+![ASCII Digital Clock](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/42%20ASCII%20Digital%20Clock.png)
+[View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/42%20ASCII%20Digital%20Clock)
+
 
