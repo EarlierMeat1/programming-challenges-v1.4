@@ -62,4 +62,5 @@ Date Completed: (`24-09-2019 `), Language (`python`)
 ## Challenge 05 - FizzBuzz
 Date Completed: (`19-04-2020 `), Language (`python`)
 ![FizzBuzz](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/05%20FizzBuzz.png)
+
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/05%20FizzBuzz/fizzbuzz.py)
