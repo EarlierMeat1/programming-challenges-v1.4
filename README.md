@@ -21,7 +21,7 @@ The challenges:
 * <b>Python</b> - Simply open your CMD prompt and type `python script.py`, using Python 3. 
 
 ## Overall Progress
-6/100
+7/100
 ■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 ## Challenge XX 
