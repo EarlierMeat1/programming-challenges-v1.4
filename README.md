@@ -14,6 +14,7 @@ The challenges:
 7. Challenge 22 - BMI Calculator
 8. Challenge 28 - Fibonacci Sequence
 9. Challenge 42 - ASCII Digital Clock
+10. Challenge 05 - FizzBuzz
 
 ## How to Run
 
@@ -21,7 +22,7 @@ The challenges:
 
 ## Overall Progress
 6/100
-■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+■■■■■■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 ## Challenge XX 
 Date Completed: (` `), Language (`python`)
@@ -58,4 +59,6 @@ Date Completed: (`24-09-2019 `), Language (`python`)
 ![ASCII Digital Clock](https://github.com/EarlierMeat1/programming-challenges-v1.4/blob/master/images/42%20ASCII%20Digital%20Clock.png)
 [View Challenge](https://github.com/EarlierMeat1/programming-challenges-v1.4/tree/master/challenges/42%20ASCII%20Digital%20Clock)
 
+## Challenge 05 - FizzBuzz
+Date Completed: (`19-04-2020 `), Language (`python`)
 
